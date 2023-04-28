@@ -1,0 +1,15 @@
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\bin\Debug\net6.0\task_002.exe
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\bin\Debug\net6.0\task_002.deps.json
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\bin\Debug\net6.0\task_002.runtimeconfig.json
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\bin\Debug\net6.0\task_002.dll
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\bin\Debug\net6.0\task_002.pdb
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\task_002.csproj.AssemblyReference.cache
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\task_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\task_002.AssemblyInfoInputs.cache
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\task_002.AssemblyInfo.cs
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\task_002.csproj.CoreCompileInputs.cache
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\task_002.dll
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\refint\task_002.dll
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\task_002.pdb
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\task_002.genruntimeconfig.cache
+C:\Программирование CSharp\Семинары\Семинар 1\tasks\task_002\obj\Debug\net6.0\ref\task_002.dll
